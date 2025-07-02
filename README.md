@@ -1,7 +1,7 @@
 # netsnake
 
 <h1 align="center">
-  <img src="static/netsnake.png" alt="netsnake" width="150px">
+  <img src="static/netsnake.png" alt="netsnake" width="300px">
   <br>
 </h1>
 
